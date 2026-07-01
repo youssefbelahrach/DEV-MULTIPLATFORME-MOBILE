@@ -1,0 +1,4 @@
+// Fichier build de niveau supérieur : options communes à tous les sous-projets/modules.
+plugins {
+    id 'com.android.application' version '8.1.4' apply false
+}
